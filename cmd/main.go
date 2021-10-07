@@ -8,7 +8,7 @@ import (
 	"path"
 	"time"
 
-	metrics "github.com/fapereira1/four-key-metrics"
+	metrics "github.com/fapereira1/4key-metrics-cli"
 )
 
 var (
